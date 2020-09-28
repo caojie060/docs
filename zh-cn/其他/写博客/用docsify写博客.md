@@ -49,13 +49,13 @@ npm i docsify-cli -g
 
 先创建一个本地文件夹docs，然后执行命令
 
-```text
+```bash
 docsify init ./docs
 ```
 
 会生成如下目录：
 
-```text
+```
  -| docs/
     -| .nojekyll 用于阻止 GitHub Pages 会忽略掉下划线开头的文件
     -| index.html 入口文件
@@ -76,7 +76,7 @@ npm install -g npm
 
 ### 1.4 本地实时预览
 
-```html
+```bash
 docsify serve docs
 ```
 
@@ -84,17 +84,10 @@ docsify serve docs
 
 - README文件：
 
-```text
+```markdown
 # Headline
 > An awesome project.
 ```
-
-作者：悟空聊架构
-链接：https://zhuanlan.zhihu.com/p/125711613
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
-
 
 ## 二、定制
 
@@ -320,6 +313,8 @@ namespace: 'XhemjBlog',
   <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-sql.js"></script>
 ```
+
+其他支持高亮语言请参考：https://github.com/PrismJS/prism/tree/gh-pages/components
 
 ### 2.5 添加一键拷贝代码
 
@@ -689,13 +684,13 @@ docsify封面支持自定义背景色或者背景图，在_coverpage.md文档末
 
 - 执行命令
 
-```text
+```bash
 sudo vim /etc/nginx/conf.d/pass_java_learning.conf
 ```
 
 - 更新配置信息
 
-  ```text
+  ```nginx
   server {
     listen       80;
     server_name  tech.jayh.club;
@@ -731,7 +726,7 @@ sudo vim /etc/nginx/conf.d/pass_java_learning.conf
 
   可以通过命令查看错误日志
 
-  ```text
+  ```bash
   cat /var/log/nginx/error.log
   ```
 
@@ -751,7 +746,7 @@ sudo vim /etc/nginx/conf.d/pass_java_learning.conf
 
   修改nginx.conf文件
 
-  ```text
+  ```bash
   sudo vim nginx.conf
   ```
 
@@ -759,7 +754,7 @@ sudo vim /etc/nginx/conf.d/pass_java_learning.conf
 
   重启 nginx 服务
 
-  ```text
+  ```bash
   sudo service nginx restart
   ```
 
@@ -786,3 +781,4 @@ https://www.jianshu.com/p/bac7e84adf21
 **[ docsify-sidebar-collapse](https://github.com/iPeng6/docsify-sidebar-collapse)**
 
 [awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+

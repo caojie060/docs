@@ -16,12 +16,7 @@ def finding(rootdir, count):
         if os.path.isdir(fulldirpath):
             for i in range(count):
                 print(' ', end='', file=wr)
-
-            if count == 0:
-                print('\n', file=wr)
-                print('#', dir, file=wr)
-            elif count == 2:
-                print('-', dir, file=wr)
+            print('-', dir, file=wr)
             # print('dir:',dir)
             count += 2
             finding(fulldirpath, count)
