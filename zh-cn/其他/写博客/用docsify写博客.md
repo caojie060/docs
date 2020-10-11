@@ -680,7 +680,7 @@ docsify封面支持自定义背景色或者背景图，在_coverpage.md文档末
 
 ## 五、部署到云服务器
 
-## 1.添加nginx配置文件
+### 1.添加nginx配置文件
 
 - 执行命令
 
@@ -702,7 +702,8 @@ sudo vim /etc/nginx/conf.d/pass_java_learning.conf
   }
   ```
 
-  ## 2.域名解析
+
+### 2.域名解析
 
 主机记录：tech
 
@@ -718,9 +719,9 @@ sudo vim /etc/nginx/conf.d/pass_java_learning.conf
 
 
 
-## 3.访问 tech.jay.club
+### 3.访问 tech.jay.club
 
-## 4. 遇到的问题
+###4. 遇到的问题
 
 - 404  未找到页面
 
