@@ -20,10 +20,10 @@
 		/* Change the sidebar bullets */
 		--sidebar-nav-link-before-content: '😀';
 	  }
-	  
-	  
+
+
 	</style>
- 
+
 </head>
 <body>
 	<div id="app">加载中,请稍等 😀...</div>
@@ -34,11 +34,15 @@
 		  auto2top: true,
 		  loadNavbar: true,
 		  loadSidebar: true, // 加载自定义侧边栏
+		  basePath: "./",
+		//   basePath: "./zh-cn/",
 		  maxLevel: 3, // 默认情况下会抓取文档中所有标题渲染成目录，可配置最大支持渲染的标题层级。
 		  subMaxLevel: 3, // 生成目录的最大层级
 		  mergeNavbar: true, // 小屏设备下合并导航栏到侧边栏
+		//   loadSidebar: '/zh-cn/_sidebar.md',// 加载自定义_sidebar.md
 		  alias: { // 定义路由别名，可以更自由的定义路由规则。 支持正则
-			'/.*/_sidebar.md': '/_sidebar.md',//防止意外回退
+			// '/.*/_sidebar.md': '/_sidebar.md',
+			'/.*/_sidebar.md': '/zh-cn/_sidebar.md',//防止意外回退
 			'/.*/_navbar.md': '/_navbar.md'
 		  },
 		  coverpage: true,
@@ -76,11 +80,11 @@
 		  },
 		}
 	  </script>
-	  
-	  
-	 
-	  
-	  
+
+
+
+
+
 
 	  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 	  <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
@@ -100,6 +104,6 @@
 	  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 	  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 	  <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-	  
+
 </body>
 </html>
