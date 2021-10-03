@@ -17,81 +17,90 @@
   - [ubuntu 软件包（package）更换源（source）为阿里云镜像 update&upgrade](zh-cn/Linux/ubuntu%20软件包（package）更换源（source）为阿里云镜像%20update&upgrade.md)
   - [ubuntu安装ros](zh-cn/Linux/ubuntu安装ros.md)
   - [解决 Ubuntu 中 update 的问题 (Reading package lists... Error!)_好好学习 - CSDN 博客](zh-cn/Linux/解决%20Ubuntu%20中%20update%20的问题%20(Reading%20package%20lists...%20Error!)_好好学习%20-%20CSDN%20博客.md)
-- Python基础
+- Python
   - python语法
-    - [python 装饰器 (函数装饰器，类装饰器)_lilied001 的博客 - CSDN 博客_python 类装饰器](zh-cn/Python基础/python语法/python%20装饰器%20(函数装饰器，类装饰器)_lilied001%20的博客%20-%20CSDN%20博客_python%20类装饰器.md)
-    - [Python 装饰器、类装饰器、属性装饰器 - 简书](zh-cn/Python基础/python语法/Python%20装饰器、类装饰器、属性装饰器%20-%20简书.md)
-    - [Python 装饰器装饰类中的方法](zh-cn/Python基础/python语法/Python%20装饰器装饰类中的方法.md)
-    - [虚拟环境](zh-cn/Python基础/python语法/虚拟环境.md)
-    - [装饰器](zh-cn/Python基础/python语法/装饰器.md)
+    - [python 装饰器 (函数装饰器，类装饰器)_lilied001 的博客 - CSDN 博客_python 类装饰器](zh-cn/Python/python语法/python%20装饰器%20(函数装饰器，类装饰器)_lilied001%20的博客%20-%20CSDN%20博客_python%20类装饰器.md)
+    - [Python 装饰器、类装饰器、属性装饰器 - 简书](zh-cn/Python/python语法/Python%20装饰器、类装饰器、属性装饰器%20-%20简书.md)
+    - [Python 装饰器装饰类中的方法](zh-cn/Python/python语法/Python%20装饰器装饰类中的方法.md)
+    - [虚拟环境](zh-cn/Python/python语法/虚拟环境.md)
+    - [装饰器](zh-cn/Python/python语法/装饰器.md)
   - 单元测试
-    - [python版本](zh-cn/Python基础/单元测试/python版本.md)
+    - [python版本](zh-cn/Python/单元测试/python版本.md)
   - 异常处理
-    - [抛出异常](zh-cn/Python基础/异常处理/抛出异常.md)
+    - [抛出异常](zh-cn/Python/异常处理/抛出异常.md)
   - 文件读取
-    - [jsonyaml互转](zh-cn/Python基础/文件读取/jsonyaml互转.md)
+    - [jsonyaml互转](zh-cn/Python/文件读取/jsonyaml互转.md)
   - 日志
-    - [彩色日志](zh-cn/Python基础/日志/彩色日志.md)
-    - [日志系统](zh-cn/Python基础/日志/日志系统.md)
-    - [终端彩色打印的方法](zh-cn/Python基础/日志/终端彩色打印的方法.md)
+    - [彩色日志](zh-cn/Python/日志/彩色日志.md)
+    - [日志系统](zh-cn/Python/日志/日志系统.md)
+    - [终端彩色打印的方法](zh-cn/Python/日志/终端彩色打印的方法.md)
   - 设计模式
-    - [Python常用设计模式](zh-cn/Python基础/设计模式/Python常用设计模式.md)
+    - [Python常用设计模式](zh-cn/Python/设计模式/Python常用设计模式.md)
+- 书单
+  - python书
+    - [python](zh-cn/书单/python书/python.md)
+    - [算法与数据结构](zh-cn/书单/python书/算法与数据结构.md)
+  - 前端
+    - [《CSS世界》](zh-cn/书单/前端/《CSS世界》.md)
 - 其他
   - 写博客
     - [用docsify写博客](zh-cn/其他/写博客/用docsify写博客.md)
-- 前端知识
+- 前端
   - Bootstrap
-    - [Bootstrap CDN 推荐](zh-cn/前端知识/Bootstrap/Bootstrap%20CDN%20推荐.md)
-    - [Bootstrap使用](zh-cn/前端知识/Bootstrap/Bootstrap使用.md)
-    - [Bootstrap布局神器](zh-cn/前端知识/Bootstrap/Bootstrap布局神器.md)
-    - [Bootstrap版本](zh-cn/前端知识/Bootstrap/Bootstrap版本.md)
-    - [popper.js下载](zh-cn/前端知识/Bootstrap/popper.js下载.md)
+    - [Bootstrap CDN 推荐](zh-cn/前端/Bootstrap/Bootstrap%20CDN%20推荐.md)
+    - [Bootstrap使用](zh-cn/前端/Bootstrap/Bootstrap使用.md)
+    - [Bootstrap布局神器](zh-cn/前端/Bootstrap/Bootstrap布局神器.md)
+    - [Bootstrap版本](zh-cn/前端/Bootstrap/Bootstrap版本.md)
+    - [popper.js下载](zh-cn/前端/Bootstrap/popper.js下载.md)
   - CSS
-    - [CSS3实现侧边栏收缩](zh-cn/前端知识/CSS/CSS3实现侧边栏收缩.md)
+    - [CSS3实现侧边栏收缩](zh-cn/前端/CSS/CSS3实现侧边栏收缩.md)
   - Electron
-    - [electron](zh-cn/前端知识/Electron/electron.md)
+    - [electron](zh-cn/前端/Electron/electron.md)
   - JavaScript
-    - [JavaScript](zh-cn/前端知识/JavaScript/JavaScript.md)
+    - [JavaScript](zh-cn/前端/JavaScript/JavaScript.md)
   - jQuery
-    - [jQuery下载](zh-cn/前端知识/jQuery/jQuery下载.md)
+    - [jQuery下载](zh-cn/前端/jQuery/jQuery下载.md)
   - Node.js
-    - [npm安装](zh-cn/前端知识/Node.js/npm安装.md)
-- 后端开发
+    - [npm安装](zh-cn/前端/Node.js/npm安装.md)
+- 博客
+  - 前端
+    - [Nov8nana](zh-cn/博客/前端/Nov8nana.md)
+- 后端
   - Django
-    - [Django+Vue前后端分离](zh-cn/后端开发/Django/Django+Vue前后端分离.md)
+    - [Django+Vue前后端分离](zh-cn/后端/Django/Django+Vue前后端分离.md)
   - Flask
-    - [Flask RESTful API](zh-cn/后端开发/Flask/Flask%20RESTful%20API.md)
-    - [flask 源码](zh-cn/后端开发/Flask/flask%20源码.md)
-    - [flask](zh-cn/后端开发/Flask/flask.md)
-    - [Flask与Django的区别](zh-cn/后端开发/Flask/Flask与Django的区别.md)
-    - [flask博客](zh-cn/后端开发/Flask/flask博客.md)
-    - [flask学习资源](zh-cn/后端开发/Flask/flask学习资源.md)
-    - [Flask快速入门](zh-cn/后端开发/Flask/Flask快速入门.md)
-    - [Flask扩展](zh-cn/后端开发/Flask/Flask扩展.md)
-    - [flask数据库](zh-cn/后端开发/Flask/flask数据库.md)
-    - [Flask文档](zh-cn/后端开发/Flask/Flask文档.md)
-    - [Flask最佳实践](zh-cn/后端开发/Flask/Flask最佳实践.md)
-    - [flask最小框架](zh-cn/后端开发/Flask/flask最小框架.md)
-    - [Flask权限管理](zh-cn/后端开发/Flask/Flask权限管理.md)
-    - [Flask蓝本](zh-cn/后端开发/Flask/Flask蓝本.md)
-    - [Flask表单](zh-cn/后端开发/Flask/Flask表单.md)
-    - [Flask视图](zh-cn/后端开发/Flask/Flask视图.md)
-    - [flask项目](zh-cn/后端开发/Flask/flask项目.md)
-    - [Flask项目结构](zh-cn/后端开发/Flask/Flask项目结构.md)
-    - [狗书](zh-cn/后端开发/Flask/狗书.md)
-    - [资源](zh-cn/后端开发/Flask/资源.md)
-    - [超时重发](zh-cn/后端开发/Flask/超时重发.md)
+    - [Flask RESTful API](zh-cn/后端/Flask/Flask%20RESTful%20API.md)
+    - [flask 源码](zh-cn/后端/Flask/flask%20源码.md)
+    - [flask](zh-cn/后端/Flask/flask.md)
+    - [Flask与Django的区别](zh-cn/后端/Flask/Flask与Django的区别.md)
+    - [flask博客](zh-cn/后端/Flask/flask博客.md)
+    - [flask学习资源](zh-cn/后端/Flask/flask学习资源.md)
+    - [Flask快速入门](zh-cn/后端/Flask/Flask快速入门.md)
+    - [Flask扩展](zh-cn/后端/Flask/Flask扩展.md)
+    - [flask数据库](zh-cn/后端/Flask/flask数据库.md)
+    - [Flask文档](zh-cn/后端/Flask/Flask文档.md)
+    - [Flask最佳实践](zh-cn/后端/Flask/Flask最佳实践.md)
+    - [flask最小框架](zh-cn/后端/Flask/flask最小框架.md)
+    - [Flask权限管理](zh-cn/后端/Flask/Flask权限管理.md)
+    - [Flask蓝本](zh-cn/后端/Flask/Flask蓝本.md)
+    - [Flask表单](zh-cn/后端/Flask/Flask表单.md)
+    - [Flask视图](zh-cn/后端/Flask/Flask视图.md)
+    - [flask项目](zh-cn/后端/Flask/flask项目.md)
+    - [Flask项目结构](zh-cn/后端/Flask/Flask项目结构.md)
+    - [狗书](zh-cn/后端/Flask/狗书.md)
+    - [资源](zh-cn/后端/Flask/资源.md)
+    - [超时重发](zh-cn/后端/Flask/超时重发.md)
   - HTTP
-    - [HTTP 状态码](zh-cn/后端开发/HTTP/HTTP%20状态码.md)
-    - [HTTP是什么](zh-cn/后端开发/HTTP/HTTP是什么.md)
+    - [HTTP 状态码](zh-cn/后端/HTTP/HTTP%20状态码.md)
+    - [HTTP是什么](zh-cn/后端/HTTP/HTTP是什么.md)
   - ORM
-    - [Django模型](zh-cn/后端开发/ORM/Django模型.md)
-    - [ORM分组与聚合](zh-cn/后端开发/ORM/ORM分组与聚合.md)
-    - [ORM常用方法及原生数据库操作](zh-cn/后端开发/ORM/ORM常用方法及原生数据库操作.md)
-    - [ORM方式操作数据库](zh-cn/后端开发/ORM/ORM方式操作数据库.md)
-    - [模型层之ORM、数据库和单表操作](zh-cn/后端开发/ORM/模型层之ORM、数据库和单表操作.md)
+    - [Django模型](zh-cn/后端/ORM/Django模型.md)
+    - [ORM分组与聚合](zh-cn/后端/ORM/ORM分组与聚合.md)
+    - [ORM常用方法及原生数据库操作](zh-cn/后端/ORM/ORM常用方法及原生数据库操作.md)
+    - [ORM方式操作数据库](zh-cn/后端/ORM/ORM方式操作数据库.md)
+    - [模型层之ORM、数据库和单表操作](zh-cn/后端/ORM/模型层之ORM、数据库和单表操作.md)
   - websocket
-    - [socketio](zh-cn/后端开发/websocket/socketio.md)
+    - [socketio](zh-cn/后端/websocket/socketio.md)
 - 开发者
   - 工具
     - [GitLab 搜索利器，代码搜索工具 Kooder 发布](zh-cn/开发者/工具/GitLab%20搜索利器，代码搜索工具%20Kooder%20发布.md)
@@ -112,10 +121,6 @@
     - [编程随想的博客](zh-cn/开发者/编程随想/编程随想的博客.md)
     - [编程随想的博客：如何完善自己的知识结构](zh-cn/开发者/编程随想/编程随想的博客：如何完善自己的知识结构.md)
     - [编程随想给我的启示](zh-cn/开发者/编程随想/编程随想给我的启示.md)
-- 我的书单
-  - python书
-    - [python](zh-cn/我的书单/python书/python.md)
-    - [算法与数据结构](zh-cn/我的书单/python书/算法与数据结构.md)
 - 技能
   - 管理和分类
     - [文件归档方法](zh-cn/技能/管理和分类/文件归档方法.md)
@@ -176,8 +181,6 @@
     - [9 Hash Table哈希表](zh-cn/数据结构与算法/数据结构/9%20Hash%20Table哈希表.md)
   - 查找搜索
     - [二分查找](zh-cn/数据结构与算法/查找搜索/二分查找.md)
-- 极客
-  - NAS
 - 游戏
   - 3DM
     - [《超级冲锋：开箱（HYPERCHARGE_ Unboxed）》CODEX 镜像版](zh-cn/游戏/3DM/《超级冲锋：开箱（HYPERCHARGE_%20Unboxed）》CODEX%20镜像版.md)
@@ -187,14 +190,12 @@
     - [pgzero语法](zh-cn/游戏/pgzero/pgzero语法.md)
   - steam
     - [Steam++ 工具箱 🧰](zh-cn/游戏/steam/Steam++%20工具箱%20🧰.md)
-  - Unity
+- 爬虫
+  - [实例](zh-cn/爬虫/实例.md)
 - 版本控制
-  - Bitbucket
   - Git
     - [github-git-cheat-sheet](zh-cn/版本控制/Git/github-git-cheat-sheet.md)
     - [gitignore怎么写](zh-cn/版本控制/Git/gitignore怎么写.md)
-  - GitHub
-  - SVN
 - 硬件
   - PLC
     - [modbus](zh-cn/硬件/PLC/modbus.md)
@@ -213,7 +214,6 @@
 - 网络
   - [内网穿透](zh-cn/网络/内网穿透.md)
 - 美化
-  - Linux
   - Windows
     - [MyDockFinder](zh-cn/美化/Windows/MyDockFinder.md)
 - 软件库
