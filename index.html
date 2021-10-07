@@ -26,6 +26,9 @@
     		--docsifytabs-tab-highlight-color: purple;
 
 		}
+		.content {
+			overflow: auto;
+		}
 	</style>
 
 </head>
@@ -77,7 +80,7 @@
 			},
 			externalLinkTarget: '_blank',
 			//themeColor: '#c30aff',
-			disqus: 'shortname',
+			// disqus: 'shortname',
 			executeScript: true,
 			themeable: {
 				readyTransition: true, // default
@@ -89,11 +92,18 @@
 				theme      : 'classic', // default
 				tabComments: true,      // default
 				tabHeadings: true       // default
+			},
+			scrollToTop: {
+				auto: false,
+				text: 'Top',
+				right: 15,
+				bottom: 15,
+				offset: 500
 			}
 		}
 	</script>
 	<!-- docsify (latest v4.x.x)-->
-	<script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+	<!-- <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script> -->
 
 	<!-- docsify-tabs (latest v1.x.x) -->
 	<script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
@@ -120,6 +130,7 @@
 	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 	<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 	<script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+	<script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
 
 </body>
 
